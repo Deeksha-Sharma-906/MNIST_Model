@@ -21,3 +21,5 @@ The goal of this project is to classify handwritten digits using a **Neural Netw
 - Evaluation on test dataset with accuracy metrics  
 - Visualization of predictions on sample images  
 
+
+<img width="517" height="726" alt="MNIST_img" src="https://github.com/user-attachments/assets/9c0af835-693c-451b-aa11-c452ac7dab1b" />
